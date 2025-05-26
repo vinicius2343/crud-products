@@ -1,4 +1,4 @@
-package com.vinicius.crudprodutos;
+package com.vinicius.crudprodutos.controller;
 import com.vinicius.crudprodutos.model.Produto;
 import com.vinicius.crudprodutos.repository.ProdutoRepository;
 import org.springframework.beans.factory.annotation.Autowired;
